@@ -1,0 +1,46 @@
+********************************************************************************************************
+*This files contains the list of active installer to be considerd for Patching.
+*
+* If you want exclude any of the installer project from patching then add "##" before the ISM file name. 
+********************************************************************************************************
+CDA_Setup.ism
+CDA Batch Exporter.ism
+Paragon ClinicianHub.ism
+CommonWell.ism
+ConnectWeb.ism
+ECQM_WebAPI.ism
+ECQMC.ism
+EPCS.ism
+FMHWebAPI.ism
+Paragon Form Markup.ism
+Form Routing.ism
+FRutils.ism
+FRutils64.ism
+ImmunizationService.ism
+ImportUtilitySetup.ism
+Paragon_Interface_Services.ism
+LoginMetricsServices.ism
+ParagonMacroTool.ism
+ManualAbstraction_WebAPI.ism
+McKConnect340BServices.ism
+MessagingServices.ism
+Mobile Specimen.ism
+NIST_Setup.ism
+Antimicrobial Service.ism
+Paragon UDI.ism
+ParagonApplicationConfig.ism
+ParagonAuditing.ism
+ParagonConnectWCF.ism
+FHIRGatewayService.ism
+OnPremOAuth.ism
+PatientDataTransferServices.ism
+PhysicianMobilityServices.ism
+PIU.ism
+##ParagonClient.ism
+RegistryReporting.ism
+BizTalkRules_XML.ism
+RuleEngineServices.ism
+SecurityServices.ism
+SSRS_ServerReports.ism
+Paragon Zynx.ism
+TeamNotesFormEditorLibrary.ism
